@@ -31,8 +31,5 @@ This project implements an end-to-end solution for predicting leaf disease types
 - Python 3.x
 - TensorFlow, Flask, tkinter (for desktop app), ttkbootstrap (for modern GUI design), and other dependencies as listed in `requirements.txt`.
 
-### License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
